@@ -1,0 +1,10 @@
+D:\PROJECTs\Visual Studio\Matrix\Matrix\bin\Debug\Matrix.exe
+D:\PROJECTs\Visual Studio\Matrix\Matrix\bin\Debug\Matrix.pdb
+D:\PROJECTs\Visual Studio\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+D:\PROJECTs\Visual Studio\Matrix\Matrix\obj\Debug\Matrix.exe
+D:\PROJECTs\Visual Studio\Matrix\Matrix\obj\Debug\Matrix.pdb
+D:\OneDrive\PROJECTs\Visual Studio\Matrix\Matrix\obj\Debug\Matrix.exe
+D:\OneDrive\PROJECTs\Visual Studio\Matrix\Matrix\obj\Debug\Matrix.pdb
+D:\OneDrive\PROJECTs\Visual Studio\Matrix\Matrix\bin\Debug\Matrix.exe
+D:\OneDrive\PROJECTs\Visual Studio\Matrix\Matrix\bin\Debug\Matrix.pdb
+D:\OneDrive\PROJECTs\Visual Studio\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
