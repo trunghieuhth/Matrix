@@ -7,6 +7,7 @@ namespace Matrix
 {
     class Program
     {
+    	//MAIN method
         static void Main(string[] args)
         {
             Console.Title = "The Matrix";
